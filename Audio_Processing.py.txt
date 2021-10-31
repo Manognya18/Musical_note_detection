@@ -3,7 +3,6 @@
 #			Musical Note Identification			    #
 #									    #
 #############################################################################
-
 import numpy as np
 import wave
 import struct
